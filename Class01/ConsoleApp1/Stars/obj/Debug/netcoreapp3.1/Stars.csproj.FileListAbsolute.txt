@@ -1,0 +1,13 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\bin\Debug\netcoreapp3.1\Stars.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\bin\Debug\netcoreapp3.1\Stars.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\bin\Debug\netcoreapp3.1\Stars.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\bin\Debug\netcoreapp3.1\Stars.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\bin\Debug\netcoreapp3.1\Stars.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\bin\Debug\netcoreapp3.1\Stars.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\obj\Debug\netcoreapp3.1\Stars.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\obj\Debug\netcoreapp3.1\Stars.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\obj\Debug\netcoreapp3.1\Stars.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\obj\Debug\netcoreapp3.1\Stars.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\obj\Debug\netcoreapp3.1\Stars.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\obj\Debug\netcoreapp3.1\Stars.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Stars\obj\Debug\netcoreapp3.1\Stars.genruntimeconfig.cache

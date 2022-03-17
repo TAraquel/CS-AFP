@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

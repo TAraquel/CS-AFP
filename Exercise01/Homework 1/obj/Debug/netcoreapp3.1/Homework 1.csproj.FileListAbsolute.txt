@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\bin\Debug\netcoreapp3.1\Branching.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\bin\Debug\netcoreapp3.1\Branching.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\bin\Debug\netcoreapp3.1\Branching.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\bin\Debug\netcoreapp3.1\Branching.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Branching\obj\Debug\netcoreapp3.1\Branching.genruntimeconfig.cache

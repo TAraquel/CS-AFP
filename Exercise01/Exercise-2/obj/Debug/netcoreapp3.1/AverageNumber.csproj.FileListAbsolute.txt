@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\bin\Debug\netcoreapp3.1\AverageNumber.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\bin\Debug\netcoreapp3.1\AverageNumber.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\bin\Debug\netcoreapp3.1\AverageNumber.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\bin\Debug\netcoreapp3.1\AverageNumber.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\bin\Debug\netcoreapp3.1\AverageNumber.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\bin\Debug\netcoreapp3.1\AverageNumber.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\Exercise-2\obj\Debug\netcoreapp3.1\AverageNumber.genruntimeconfig.cache

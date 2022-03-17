@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\bin\Debug\netcoreapp3.1\Class 02.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\bin\Debug\netcoreapp3.1\Class 02.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\bin\Debug\netcoreapp3.1\Class 02.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\bin\Debug\netcoreapp3.1\Class 02.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\bin\Debug\netcoreapp3.1\Class 02.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\bin\Debug\netcoreapp3.1\Class 02.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\Class 02\Class 02\obj\Debug\netcoreapp3.1\Class 02.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Exercise 01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

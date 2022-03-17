@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\bin\Debug\netcoreapp3.1\Loops exercises.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\bin\Debug\netcoreapp3.1\Loops exercises.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\bin\Debug\netcoreapp3.1\Loops exercises.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\bin\Debug\netcoreapp3.1\Loops exercises.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\bin\Debug\netcoreapp3.1\Loops exercises.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\bin\Debug\netcoreapp3.1\Loops exercises.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Loops exercises\obj\Debug\netcoreapp3.1\Loops exercises.genruntimeconfig.cache

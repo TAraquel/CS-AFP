@@ -1,0 +1,13 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\bin\Debug\netcoreapp3.1\Array exercises.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\bin\Debug\netcoreapp3.1\Array exercises.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\bin\Debug\netcoreapp3.1\Array exercises.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\bin\Debug\netcoreapp3.1\Array exercises.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\bin\Debug\netcoreapp3.1\Array exercises.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\bin\Debug\netcoreapp3.1\Array exercises.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\obj\Debug\netcoreapp3.1\Array exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\obj\Debug\netcoreapp3.1\Array exercises.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\obj\Debug\netcoreapp3.1\Array exercises.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\obj\Debug\netcoreapp3.1\Array exercises.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\obj\Debug\netcoreapp3.1\Array exercises.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\obj\Debug\netcoreapp3.1\Array exercises.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Loops with CS\Array exercises\obj\Debug\netcoreapp3.1\Array exercises.genruntimeconfig.cache

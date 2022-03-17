@@ -1,0 +1,14 @@
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\bin\Debug\netcoreapp3.1\Person print.exe
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\bin\Debug\netcoreapp3.1\Person print.deps.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\bin\Debug\netcoreapp3.1\Person print.runtimeconfig.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\bin\Debug\netcoreapp3.1\Person print.runtimeconfig.dev.json
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\bin\Debug\netcoreapp3.1\Person print.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\bin\Debug\netcoreapp3.1\Person print.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.csproj.AssemblyReference.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.AssemblyInfoInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.AssemblyInfo.cs
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.csproj.CoreCompileInputs.cache
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.dll
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.pdb
+E:\SEDC STUFF\ACC for prog\C# BASIC\Class 01\ConsoleApp1\Person print\obj\Debug\netcoreapp3.1\Person print.genruntimeconfig.cache
